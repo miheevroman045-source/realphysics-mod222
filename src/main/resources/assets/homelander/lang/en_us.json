@@ -1,0 +1,18 @@
+{
+  "item.homelander.homelander_helmet": "Homelander Mask",
+  "item.homelander.homelander_chestplate": "Homelander Suit",
+  "item.homelander.homelander_leggings": "Homelander Leggings",
+  "item.homelander.homelander_boots": "Homelander Boots",
+  "item.homelander.compound_v": "Compound V Serum",
+  "category.homelander.powers": "Homelander Powers",
+  "key.homelander.laser": "Heat vision (hold H)",
+  "key.homelander.flight": "Toggle flight",
+  "key.homelander.shockwave": "Shockwave",
+  "key.homelander.punch": "Super punch",
+  "key.homelander.landing": "Hero landing",
+  "key.homelander.speed": "Super speed (hold R)",
+  "key.homelander.sonic": "Sonic burst",
+  "key.homelander.pull": "Pull enemy",
+  "key.homelander.vision": "Super vision",
+  "key.homelander.shield": "Invulnerable shield"
+}
